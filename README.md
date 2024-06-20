@@ -20,7 +20,7 @@ As this backup file is not owned or maintained by me, please refer to the origin
 
 ## Acknowledgments
 - Thanks to the original creators and contributors for their hard work on the CleanFlash program and this backup file.
-- [Any other acknowledgments].
+- The original project can be found at [CleanFlash Installer Releases](https://gitlab.com/cleanflash/installer/-/releases).
 
 ## Usage
 To use this backup file with the CleanFlash program, follow these steps:
