@@ -4,7 +4,7 @@
 
 # CleanFlash Backup
 
-This repository contains the a [Older] restored ersion of CleanFlash, a required dependency for Skua & Grim.
+This repository contains an "**Older**" restored version of CleanFlash, a required dependency for Skua & Grim.
 
 ## Installation
 
