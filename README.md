@@ -4,21 +4,23 @@
 
 # CleanFlash Backup
 
-This repository contains the CleanFlash Backup, a required dependency for [Your Program Name]. The backup ensures smooth installation and operation of the program.
+This repository contains the a [Older] restored ersion of CleanFlash, a required dependency for Skua & Grim.
 
 ## Installation
 
 To install the CleanFlash Backup, follow these steps:
 
-1. Download the backup file from the [original source](https://gitlab.com/cleanflash/installer/-/releases).
+1. Download the backup file from [Release](https://github.com/wtffidy/CleanFlashBackUp/raw/main/CleanFlash_34.0.0.175_Installer.exe)
 
 2. When downloading, Windows Defender might prompt a security warning.
+
+3. when going through the installation, FOLLOW THE [GIF](https://imgur.com/ztsLYZ1) EXACTLY.
 
 ## Troubleshooting
 
 - If Windows Defender prompts you with a security warning:
   1. Click on "Show more" to reveal additional options.
-  2. Select "Run anyway" to proceed with downloading the CleanFlash Backup file.
+  2. Select "Run anyway" to proceed with Installing CleanFlash.
 
 ## Contributing
 
@@ -30,4 +32,4 @@ Contributions are not applicable for this repository as it solely contains the C
 
 ---
 
-For more information, visit the [original site](https://gitlab.com/cleanflash/installer/-/releases).
+Creddit for the Original File goto: [original site](https://gitlab.com/cleanflash/installer/-/releases).
