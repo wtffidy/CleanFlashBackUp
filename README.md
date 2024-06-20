@@ -36,4 +36,3 @@ For any questions or comments regarding this backup file, you can reach out to m
 
 ---
 
-*This README was generated for informational purposes only.*
