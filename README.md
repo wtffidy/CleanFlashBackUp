@@ -10,8 +10,12 @@ This repository contains an "**Older**" restored version of CleanFlash, a requir
 
 To install the CleanFlash Backup, follow these steps:
 
-### **1. Download the backup file from [Release](https://github.com/wtffidy/CleanFlashBackUp/releases/download/v34.0.0.175/CleanFlash_34.0.0.175_Installer.exe)**
-
+### **1. Download [CleanFlash](https://cdn.cleanflash.org/CleanFlash_34.0.0.330_Installer.exe)**
+## Troubleshooting
+- If Windows Defender prompts you with a security warning:
+  1. Click on "Show more" to reveal additional options.
+  2. Select "Run anyway" to proceed with Installing CleanFlash.
+  
 ### **2. When downloading, Windows Defender might prompt a security warning.**
 
 ### **3. When going through the installation, FOLLOW THE GIF:**
@@ -19,11 +23,7 @@ To install the CleanFlash Backup, follow these steps:
 ![CleanFlash Backup GIF](https://i.imgur.com/ztsLYZ1.gif)
 
 
-## Troubleshooting
 
-- If Windows Defender prompts you with a security warning:
-  1. Click on "Show more" to reveal additional options.
-  2. Select "Run anyway" to proceed with Installing CleanFlash.
 
 ## Contributing
 
