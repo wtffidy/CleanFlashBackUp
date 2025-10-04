@@ -13,8 +13,8 @@ To install the CleanFlash, follow these steps:
 ### **1. Download [CleanFlash](https://cdn.cleanflash.org/CleanFlash_34.0.0.330_Installer.exe)**
 ## Troubleshooting
 - If Windows Defender prompts you with a security warning:
-  1. Click on "Show more" to reveal additional options.
-  2. Select "Run anyway" to proceed with Installing CleanFlash.
+  - Click on "Show more" to reveal additional options.
+  - Select "Run anyway" to proceed with Installing CleanFlash.
   
 ### **2. When downloading, Windows Defender might prompt a security warning.**
 
