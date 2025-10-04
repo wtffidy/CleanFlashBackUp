@@ -8,7 +8,7 @@ This repository contains an "**Older**" restored version of CleanFlash, a requir
 
 ## Installation
 
-To install the CleanFlash Backup, follow these steps:
+To install the CleanFlash, follow these steps:
 
 ### **1. Download [CleanFlash](https://cdn.cleanflash.org/CleanFlash_34.0.0.330_Installer.exe)**
 ## Troubleshooting
@@ -20,9 +20,7 @@ To install the CleanFlash Backup, follow these steps:
 
 ### **3. When going through the installation, FOLLOW THE GIF:**
 
-![CleanFlash Backup GIF](https://i.imgur.com/ztsLYZ1.gif)
-
-
+![CleanFlash Installation GIF](https://i.imgur.com/ztsLYZ1.gif)
 
 
 ## Contributing
